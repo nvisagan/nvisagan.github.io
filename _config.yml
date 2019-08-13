@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: A Data Science Journey
 
 # Short description of your site
 description: Navo Visagan's Portfolio
@@ -68,12 +68,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "navo17@gamil.com"
+  #facebook: deanattali
+  github: nvisagan
+  #twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: navo-visagan
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

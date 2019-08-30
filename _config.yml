@@ -71,7 +71,7 @@ social-network-links:
   email: "navo17@gamil.com"
   #facebook: deanattali
   github: nvisagan
-  #twitter: daattali
+  twitter: NavoVisagan
 #  reddit: yourname
   linkedin: navo-visagan
 #  xing: yourname
@@ -98,7 +98,7 @@ url-pretty: "nvisagan.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+#gtag: "G-655CVTFC6Q"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""

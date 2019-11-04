@@ -6,8 +6,10 @@ subtitle: Predicting how long a NBA player will stay in the NBA
 gh-repo: https://github.com/Build-NBA-Career-Longevity-Predictor
 gh-badge: [star, fork, follow]
 tags: [NBA], [Career], [Predictor]
-comments: true
+comments = true
+
 ---
+
 ## The Vision
 We needed create an MVP in a week. This MVP needeed to contain a working frontend, backend, and database to predict the longevity of a player
 and find the most similar player.

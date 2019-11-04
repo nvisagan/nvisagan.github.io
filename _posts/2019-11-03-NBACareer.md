@@ -7,7 +7,6 @@ gh-repo: https://github.com/Build-NBA-Career-Longevity-Predictor
 gh-badge: [star, fork, follow]
 tags: [NBA], [Career], [Predictor]
 comments = true
-
 ---
 
 ## The Vision

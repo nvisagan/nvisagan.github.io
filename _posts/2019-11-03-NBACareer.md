@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Gender Predictor 
-subtitle: Predicting the Gender of the Deceased
+title: NBA Career Predictor and Similar Players 
+subtitle: Predict a NBA player's career and the most similar player 
 image:
-gh-repo: https://github.com/nvisagan/dash_Proj_2
-gh-badge: [star,follow]
+gh-repo: https://github.com/Build-NBA-Career-Longevity-Predictor
+gh-badge: [star]
 --- 
 ## The Vision
 We needed create an MVP in a week. This MVP needeed to contain a working frontend, backend, and database to predict the longevity of a player

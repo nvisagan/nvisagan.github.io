@@ -1,3 +1,4 @@
+---
 layout: post
 title: NBA Career Predictor
 subtitle: Predicting how long a NBA player will stay in the NBA 

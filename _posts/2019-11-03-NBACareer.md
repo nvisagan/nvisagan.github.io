@@ -19,5 +19,5 @@ The [NBA Career Predictor](https://nba-clp.netlify.com/login) is a working appli
 and the most similar player.
 Here are some pictures:
 
-If you would like to play with, message me on socials for a temporary login!
+If you would like to check out the website, message me on socials for a temporary login!
 Thanks for reading!

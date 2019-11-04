@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NBA Career Predictor
+image:
 subtitle: Predicting how long a NBA player will stay in the NBA 
 gh-repo: https://github.com/Build-NBA-Career-Longevity-Predictor
 gh-badge: [star, fork, follow]

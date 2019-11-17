@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle:Look again at that dot 
+subtitle: Look again at that dot 
 ---
 ## Welcome!
 
